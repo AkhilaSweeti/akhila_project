@@ -1,1 +1,3 @@
 put master.txt on main branch, stage and commit
+
+Edit master.txt on private branch, stage and commit
